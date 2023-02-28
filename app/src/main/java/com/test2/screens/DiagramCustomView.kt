@@ -1,4 +1,4 @@
-package com.test2
+package com.test2.screens
 
 import android.content.Context
 import android.content.res.Resources
